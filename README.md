@@ -38,4 +38,3 @@ henkilokohtainen-sivusto/
 - Google Fonts (Montserrat, Roboto)
 - Font Awesome -ikonit
 
-## GitHub Pages -julkaisuohjeet
